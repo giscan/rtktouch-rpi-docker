@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/pi/RTKBASE
+export QT_GRAPHICSSYSTEM="native"
+./RTKBASE
