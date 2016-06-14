@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM resin/rpi-raspbian
 MAINTAINER Sylvain POULAIN <sylvain.poulain@giscan.com> /docker-RTKtouch
 #Install dependencies
 RUN apt-get update && apt-get install -y --install-recommends \
