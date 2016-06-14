@@ -4,7 +4,7 @@ Docker Rtktouch fro Raspberry Pi (GUI for Rtklib) from Francklin : https://githu
 
 It's just a docker container for software of Francklin
 
-**How to build it **
+**How to build it**
 
 `docker docker build -t giscan/rtktouch-rpi-docker git://github.com/giscan/rtktouch-rpi-docker`
 
