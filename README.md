@@ -6,7 +6,7 @@ It's just a docker container for software of Francklin
 
 **How to build it**
 
-`docker docker build -t giscan/rtktouch-rpi-docker git://github.com/giscan/rtktouch-rpi-docker`
+`docker build -t giscan/rtktouch-rpi-docker git://github.com/giscan/rtktouch-rpi-docker`
 
 
 **How to use it (/dev/ttyUSB0 is your GPS)**
